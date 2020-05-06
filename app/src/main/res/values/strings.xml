@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Delta_1.1</string>
+    <string name="best_streak">Best Streak: </string>
+    <string name="current_streak">Current Streak: </string>
+    <string name="enter">Enter a number: </string>
+    <string name="go">Go</string>
+    <string name="option1">Option 1</string>
+    <string name="option2">Option 2</string>
+    <string name="option3">Option 3</string>
+</resources>
